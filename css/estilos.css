@@ -1,0 +1,19 @@
+body{
+    background:#1e1e1e;
+    color:white;
+    font-family:Arial;
+}
+
+.menu{
+    display:grid;
+    grid-template-columns:repeat(3,1fr);
+    gap:20px;
+}
+
+a{
+    background:orange;
+    padding:20px;
+    text-decoration:none;
+    color:white;
+    text-align:center;
+}

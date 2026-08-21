@@ -26,8 +26,8 @@ El sistema fue diseñado utilizando diagramas UML previos al desarrollo, para pl
 
 ## Estructura del proyecto
 
-- `config/` — Configuración de conexión a la base de datos
-- `css/` — Estilos del sistema
+- `configuración/` — Configuración de conexión a la base de datos
+- `CSS/` — Estilos del sistema
 - `js/` — Scripts del lado del cliente
 - `mantenimientos/` — Módulo principal de gestión de mantenimientos
 - `informes/` — Módulo de generación de reportes
